@@ -32,11 +32,11 @@ The datasets folder contains all experimental data utilized in ReduMixDTI, inclu
 
 ## Run
 ### For Human dataset
-`python main.py --cfg ./configs/human.yaml --outname human_model --data human --num_worker 0`
+`$ python main.py --cfg ./configs/human.yaml --outname human_model --data human --num_worker 0`
 ### For BioSNAP dataset
-`python main.py --cfg ./configs/biosnap.yaml --outname biosnap_model --data biosnap --num_worker 0`
+`$ python main.py --cfg ./configs/biosnap.yaml --outname biosnap_model --data biosnap --num_worker 0`
 ### For BindingDB dataset
-`python main.py --cfg ./configs/bindingdb.yaml --outname bindingdb_model --data bindingdb --num_worker 0`
+`$ python main.py --cfg ./configs/bindingdb.yaml --outname bindingdb_model --data bindingdb --num_worker 0`
 
 ## Reference
 >[1] Bai, P.; Miljković, F.; Ge, Y.; Greene, N.; John, B.; Lu, H. Hierarchical Clustering Split for Low-Bias Evaluation of Drug-Target Interaction Prediction. 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2021; pp 641–644.
