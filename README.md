@@ -1,6 +1,21 @@
 # ReduMixDTI
 ReduMixDTI: prediction of drug-target interaction with feature redundancy reduction and interpretable attention mechanism
 
+# Cite
+@article{liu2024redumixdti,
+  title = {{{ReduMixDTI}}: {{Prediction}} of {{Drug}}–{{Target Interaction}} with {{Feature Redundancy Reduction}} and {{Interpretable Attention Mechanism}}},
+  author = {Liu, Mingqing and Meng, Xuechun and Mao, Yiyang and Li, Hongqi and Liu, Ji},
+  date = {2024-12-09},
+  journaltitle = {Journal of Chemical Information and Modeling},
+  shortjournal = {J. Chem. Inf. Model.},
+  volume = {64},
+  number = {23},
+  pages = {8952--8962},
+  publisher = {American Chemical Society},
+  issn = {1549-9596, 1549-960X},
+  doi = {10.1021/acs.jcim.4c01554}
+}
+
 ## Setup
 Setting up for this project involves installing dependencies and preparing the datasets.
 
